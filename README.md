@@ -12,4 +12,4 @@ The design of a software system should be domain driven. By it's very nature dom
 <br />
 __References__
 
-Dodd, T., &amp; Musk, E. (2021, August 3). _Starbase tour with Elon Musk [part 1]_. YouTube. https://www.youtube.com/watch?v=t705r8ICkRw&amp;t=813s 
+Dodd, T., &amp; Musk, E. (2021, August 3). _Starbase tour with Elon Musk [part 1]_. YouTube. https://www.youtube.com/watch?v=t705r8ICkRw&t=813s 
